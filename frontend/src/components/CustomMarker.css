@@ -1,0 +1,16 @@
+
+.custom-marker {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    background-color: red; 
+    border: 2px solid #fff; 
+    border-radius: 50%; 
+    transform: translate(-50%, -50%); 
+    cursor: pointer;
+
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); 
+  }
+  
